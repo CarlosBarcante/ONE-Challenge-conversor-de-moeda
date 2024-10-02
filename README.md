@@ -8,7 +8,7 @@ Aplicação desenvolvida para o challenge do ONE (Oracle Next Education), é um 
 
 * **Java:** Linguagem de programação principal.
 * **Gson:** Biblioteca para conversão de JSON.
-* **ExchangeRate-API** Api de câmbio.
+* **ExchangeRate-API:** Api de câmbio.
 
 **Objetivo:**
 
